@@ -1,5 +1,12 @@
+# Setup notebooks
 github_setup(to delete).ipynb
+
+# Data files — download from Kaggle, do not commit to repo
 Lead Scoring.csv
 Leads Data Dictionary.xlsx
+customer_conversion_traing_dataset .csv
+customer_conversion_testing_dataset.csv
+
+# System files
 .ipynb_checkpoints/
 __pycache__/
