@@ -22,6 +22,17 @@ Rather than treating predictive lead scoring and lead qualification as competing
 
 ---
 
+## From Research to Production
+
+This repository documents the research that underpins **TailyX AI**, an AI-powered lead qualification platform.
+
+The dissertation investigates how predictive lead scoring can be improved by introducing a structured post-scoring qualification stage when sales capacity is constrained. TailyX AI builds on these findings by applying the same principles in a production environment through conversational AI, configurable qualification workflows, adaptive lead scoring, and agent-accessible APIs.
+
+The objective of TailyX AI is not to replace predictive models, but to operationalise the research presented in this dissertation by helping organisations collect additional qualification evidence before scarce sales resources are committed.
+
+Learn more about the production platform at **https://tailyx.ai**.
+
+---
 # Research Question
 
 > **Can a qualification layer applied after predictive lead scoring improve lead-selection outcomes under a fixed sales-capacity constraint?**
