@@ -12,9 +12,7 @@
 
 ## Executive Summary
 
-This repository contains the supporting implementation, datasets, and experimental notebooks for my MSc dissertation:
-
-> **Integrating Predictive Models with Operational Policies for Constrained Lead Qualification**
+Master's dissertation on constrained lead qualification and the research underpinning TailyX AI.
 
 The dissertation investigates whether a **post-scoring qualification layer** can improve lead selection when sales teams operate under a fixed follow-up capacity.
 
